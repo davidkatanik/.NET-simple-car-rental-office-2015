@@ -1,0 +1,92 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{6A95A05E-4E40-4EC9-87AA-32ED909BDBAA}</ProjectGuid>
+    <OutputType>Exe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>ORM_KAT0013</RootNamespace>
+    <AssemblyName>ORM_KAT0013</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Database\Adresa.cs" />
+    <Compile Include="Database\AdresaTable.cs" />
+    <Compile Include="Database\Auto.cs" />
+    <Compile Include="Database\AutoTable.cs" />
+    <Compile Include="Database\Database.cs" />
+    <Compile Include="Database\Historie_mezd.cs" />
+    <Compile Include="Database\Historie_mezdTable.cs" />
+    <Compile Include="Database\Klient.cs" />
+    <Compile Include="Database\KlientTable.cs" />
+    <Compile Include="Database\Login.cs" />
+    <Compile Include="Database\LoginDML.cs" />
+    <Compile Include="Database\Oddeleni.cs" />
+    <Compile Include="Database\OddeleniTable.cs" />
+    <Compile Include="Database\Oprava.cs" />
+    <Compile Include="Database\OpravaTable.cs" />
+    <Compile Include="Database\Pronajem.cs" />
+    <Compile Include="Database\PronajemTable.cs" />
+    <Compile Include="Database\Typ_auta.cs" />
+    <Compile Include="Database\Typ_autaTable.cs" />
+    <Compile Include="Database\Zamestnanec.cs" />
+    <Compile Include="Database\ZamestnanecTable.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="VypisKlienta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VypisKlienta.Designer.cs">
+      <DependentUpon>VypisKlienta.cs</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="VypisKlienta.resx">
+      <DependentUpon>VypisKlienta.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

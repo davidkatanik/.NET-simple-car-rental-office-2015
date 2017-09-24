@@ -1,0 +1,10 @@
+C:\Users\David\Desktop\ORM_N\Application_KAT0013\Application_KAT0013\bin\Debug\Application_KAT0013.exe.config
+C:\Users\David\Desktop\ORM_N\Application_KAT0013\Application_KAT0013\obj\Debug\Application_KAT0013.csprojResolveAssemblyReference.cache
+C:\Users\David\Desktop\ORM_N\Application_KAT0013\Application_KAT0013\obj\Debug\Application_KAT0013.Form1.resources
+C:\Users\David\Desktop\ORM_N\Application_KAT0013\Application_KAT0013\obj\Debug\Application_KAT0013.Properties.Resources.resources
+C:\Users\David\Desktop\ORM_N\Application_KAT0013\Application_KAT0013\obj\Debug\Application_KAT0013.csproj.GenerateResource.Cache
+C:\Users\David\Desktop\ORM_N\Application_KAT0013\Application_KAT0013\bin\Debug\Application_KAT0013.exe
+C:\Users\David\Desktop\ORM_N\Application_KAT0013\Application_KAT0013\bin\Debug\Application_KAT0013.pdb
+C:\Users\David\Desktop\ORM_N\Application_KAT0013\Application_KAT0013\obj\Debug\Application_KAT0013.exe
+C:\Users\David\Desktop\ORM_N\Application_KAT0013\Application_KAT0013\obj\Debug\Application_KAT0013.pdb
+C:\Users\David\Desktop\Application_KAT0013\Application_KAT0013\bin\Debug\Application_KAT0013.exe.config

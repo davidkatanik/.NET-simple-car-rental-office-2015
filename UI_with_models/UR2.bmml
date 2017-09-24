@@ -1,0 +1,310 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1861" measuredH="556" mockupW="1740" mockupH="484">
+  <controls>
+    <control controlID="81" controlTypeID="com.balsamiq.mockups::TitleWindow" x="121" y="72" w="731" h="484" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bottomheight>0</bottomheight>
+        <close>true</close>
+        <maximizeRestore>true</maximizeRestore>
+        <minimize>true</minimize>
+        <text>Vytvo%u0159en%ED%20objedn%E1vky</text>
+      </controlProperties>
+    </control>
+    <control controlID="82" controlTypeID="com.balsamiq.mockups::FieldSet" x="573" y="129" w="264" h="368" measuredW="200" measuredH="170" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Informace%20o%20aut%u011B</text>
+      </controlProperties>
+    </control>
+    <control controlID="83" controlTypeID="com.balsamiq.mockups::FieldSet" x="132" y="129" w="432" h="369" measuredW="200" measuredH="170" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Z%E1kladn%ED%20informace</text>
+      </controlProperties>
+    </control>
+    <control controlID="84" controlTypeID="com.balsamiq.mockups::MenuBar" x="121" y="96" w="731" h="29" measuredW="683" measuredH="29" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Spr%E1va%20pron%E1jm%u016F%2C%20Spr%E1va%20klient%u016F%20a%20adres%2C%20Spr%E1va%20zam%u011Bstnanc%u016F%20a%20odd%u011Blen%ED%2C%20Spr%E1va%20aut%2C%20Spr%E1va%20oprav</text>
+      </controlProperties>
+    </control>
+    <control controlID="85" controlTypeID="com.balsamiq.mockups::List" x="394" y="146" w="164" h="337" measuredW="100" measuredH="126" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <hasHeader>false</hasHeader>
+        <selectedIndex>0</selectedIndex>
+        <text>BMW%20X6%0A%u0160KODA%20OCTAVIA%20II%0A%u0160KODA%20FABIA%20II%0AFORD%20FOCUS%0A---</text>
+        <verticalScrollbar>true</verticalScrollbar>
+      </controlProperties>
+    </control>
+    <control controlID="86" controlTypeID="com.balsamiq.mockups::DateChooser" x="259" y="215" w="128" h="-1" measuredW="117" measuredH="25" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>21/04/2015</text>
+      </controlProperties>
+    </control>
+    <control controlID="87" controlTypeID="com.balsamiq.mockups::DateChooser" x="259" y="248" w="128" h="-1" measuredW="134" measuredH="25" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>08/05/2015%20%20%20%20</text>
+      </controlProperties>
+    </control>
+    <control controlID="88" controlTypeID="com.balsamiq.mockups::Label" x="147" y="217" w="-1" h="-1" measuredW="21" measuredH="21" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Od%3A</text>
+      </controlProperties>
+    </control>
+    <control controlID="89" controlTypeID="com.balsamiq.mockups::Label" x="147" y="250" w="-1" h="-1" measuredW="19" measuredH="21" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Do%3A</text>
+      </controlProperties>
+    </control>
+    <control controlID="90" controlTypeID="com.balsamiq.mockups::Button" x="596" y="505" w="112" h="42" measuredW="72" measuredH="27" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Pronajat</text>
+      </controlProperties>
+    </control>
+    <control controlID="91" controlTypeID="com.balsamiq.mockups::Button" x="714" y="505" w="123" h="42" measuredW="62" measuredH="27" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Storno</text>
+      </controlProperties>
+    </control>
+    <control controlID="92" controlTypeID="com.balsamiq.mockups::Label" x="147" y="431" w="240" h="-1" measuredW="191" measuredH="26" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>left</align>
+        <bold>true</bold>
+        <color>13576743</color>
+        <size>18</size>
+        <text>Celkov%E1%20cena%3A%2021600%2C-</text>
+      </controlProperties>
+    </control>
+    <control controlID="93" controlTypeID="com.balsamiq.mockups::TextInput" x="259" y="332" w="128" h="-1" measuredW="22" measuredH="27" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>3</text>
+      </controlProperties>
+    </control>
+    <control controlID="94" controlTypeID="com.balsamiq.mockups::Label" x="147" y="335" w="-1" h="-1" measuredW="102" measuredH="21" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>ID%20zam%u011Bstnance%3A</text>
+      </controlProperties>
+    </control>
+    <control controlID="95" controlTypeID="com.balsamiq.mockups::TextInput" x="259" y="146" w="128" h="-1" measuredW="22" measuredH="27" zOrder="14" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>8</text>
+      </controlProperties>
+    </control>
+    <control controlID="96" controlTypeID="com.balsamiq.mockups::Label" x="147" y="149" w="-1" h="-1" measuredW="61" measuredH="21" zOrder="15" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>ID%20Klienta%3A</text>
+      </controlProperties>
+    </control>
+    <control controlID="97" controlTypeID="com.balsamiq.mockups::Button" x="147" y="398" w="240" h="27" measuredW="132" measuredH="27" zOrder="16" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>VYPO%u010C%CDTAT%20CENU</text>
+      </controlProperties>
+    </control>
+    <control controlID="98" controlTypeID="com.balsamiq.mockups::TextInput" x="259" y="301" w="128" h="-1" measuredW="47" measuredH="27" zOrder="17" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>2000</text>
+      </controlProperties>
+    </control>
+    <control controlID="99" controlTypeID="com.balsamiq.mockups::Label" x="147" y="304" w="-1" h="-1" measuredW="44" measuredH="21" zOrder="18" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Z%E1loha%3A</text>
+      </controlProperties>
+    </control>
+    <control controlID="100" controlTypeID="com.balsamiq.mockups::Label" x="586" y="149" w="236" h="-1" measuredW="83" measuredH="28" zOrder="19" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>center</align>
+        <bold>true</bold>
+        <size>20</size>
+        <text>BMW%20X6</text>
+      </controlProperties>
+    </control>
+    <control controlID="101" controlTypeID="com.balsamiq.mockups::Label" x="586" y="172" w="-1" h="-1" measuredW="77" measuredH="21" zOrder="20" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Denn%ED%20sazba%3A</text>
+      </controlProperties>
+    </control>
+    <control controlID="102" controlTypeID="com.balsamiq.mockups::Label" x="586" y="238" w="-1" h="-1" measuredW="69" measuredH="21" zOrder="21" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Rok%20v%FDroby%3A</text>
+      </controlProperties>
+    </control>
+    <control controlID="103" controlTypeID="com.balsamiq.mockups::TextArea" x="586" y="300" w="236" h="183" measuredW="200" measuredH="140" zOrder="22" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Z%E1kazn%EDk%20si%20vy%u017E%E1dal%20zaslat%20fakturu%20na%20email</text>
+      </controlProperties>
+    </control>
+    <control controlID="104" controlTypeID="com.balsamiq.mockups::Label" x="586" y="274" w="-1" h="-1" measuredW="65" measuredH="21" zOrder="23" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Pozn%E1mka%3A</text>
+      </controlProperties>
+    </control>
+    <control controlID="105" controlTypeID="com.balsamiq.mockups::Label" x="586" y="204" w="-1" h="-1" measuredW="29" measuredH="21" zOrder="24" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>SPZ%3A</text>
+      </controlProperties>
+    </control>
+    <control controlID="106" controlTypeID="com.balsamiq.mockups::Label" x="784" y="172" w="-1" h="-1" measuredW="38" measuredH="21" zOrder="25" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>1200%2C-</text>
+      </controlProperties>
+    </control>
+    <control controlID="107" controlTypeID="com.balsamiq.mockups::Label" x="770" y="204" w="-1" h="-1" measuredW="52" measuredH="21" zOrder="26" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>1T1%200001</text>
+      </controlProperties>
+    </control>
+    <control controlID="108" controlTypeID="com.balsamiq.mockups::Label" x="792" y="238" w="-1" h="-1" measuredW="30" measuredH="21" zOrder="27" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>2013</text>
+      </controlProperties>
+    </control>
+    <control controlID="109" controlTypeID="com.balsamiq.mockups::Label" x="147" y="457" w="240" h="-1" measuredW="194" measuredH="26" zOrder="28" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>left</align>
+        <bold>true</bold>
+        <color>13576743</color>
+        <size>18</size>
+        <text>CC%20-%20Z%C1LOHA%3A%2019600%2C-</text>
+      </controlProperties>
+    </control>
+    <control controlID="110" controlTypeID="com.balsamiq.mockups::Label" x="147" y="274" w="-1" h="-1" measuredW="58" measuredH="21" zOrder="29" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Po%u010Det%20dn%ED%3A</text>
+      </controlProperties>
+    </control>
+    <control controlID="111" controlTypeID="com.balsamiq.mockups::Label" x="374" y="274" w="-1" h="-1" measuredW="13" measuredH="21" zOrder="30" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>18</text>
+      </controlProperties>
+    </control>
+    <control controlID="112" controlTypeID="com.balsamiq.mockups::CheckBox" x="132" y="500" w="-1" h="-1" measuredW="343" measuredH="24" zOrder="31" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <icon>AsteriskIcon%7Csmall</icon>
+        <size>13</size>
+        <text>Z%E1kazn%EDk%20souhlasil%20se%20v%u0161eobecn%FDmi%20podm%EDnkami</text>
+      </controlProperties>
+    </control>
+    <control controlID="113" controlTypeID="com.balsamiq.mockups::Button" x="147" y="177" w="-1" h="-1" measuredW="96" measuredH="27" zOrder="32" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Najdi%20klienta</text>
+      </controlProperties>
+    </control>
+    <control controlID="114" controlTypeID="com.balsamiq.mockups::Button" x="269" y="177" w="109" h="27" measuredW="100" measuredH="27" zOrder="33" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>P%u0159idej%20klienta</text>
+      </controlProperties>
+    </control>
+    <control controlID="115" controlTypeID="com.balsamiq.mockups::Button" x="147" y="365" w="240" h="27" measuredW="139" measuredH="27" zOrder="34" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Najdi%20Zam%u011Bstnance</text>
+      </controlProperties>
+    </control>
+    <control controlID="116" controlTypeID="com.balsamiq.mockups::CheckBox" x="132" y="522" w="-1" h="-1" measuredW="230" measuredH="22" zOrder="35" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Zaslat%20z%E1kazn%EDkovi%20fakturu%20na%20email</text>
+      </controlProperties>
+    </control>
+    <control controlID="117" controlTypeID="com.balsamiq.mockups::TitleWindow" x="883" y="72" w="978" h="484" measuredW="450" measuredH="400" zOrder="36" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bottomheight>0</bottomheight>
+        <close>true</close>
+        <maximizeRestore>true</maximizeRestore>
+        <minimize>true</minimize>
+        <text>V%FDpis%20klienta</text>
+      </controlProperties>
+    </control>
+    <control controlID="118" controlTypeID="com.balsamiq.mockups::MenuBar" x="883" y="96" w="978" h="29" measuredW="683" measuredH="29" zOrder="37" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Spr%E1va%20pron%E1jm%u016F%2C%20Spr%E1va%20klient%u016F%20a%20adres%2C%20Spr%E1va%20zam%u011Bstnanc%u016F%20a%20odd%u011Blen%ED%2C%20Spr%E1va%20aut%2C%20Spr%E1va%20oprav</text>
+      </controlProperties>
+    </control>
+    <control controlID="119" controlTypeID="com.balsamiq.mockups::TextInput" x="1184" y="129" w="121" h="-1" measuredW="23" measuredH="27" zOrder="38" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>2</text>
+      </controlProperties>
+    </control>
+    <control controlID="120" controlTypeID="com.balsamiq.mockups::Label" x="1071" y="132" w="90" h="-1" measuredW="61" measuredH="21" zOrder="39" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>ID%20Klienta%3A</text>
+      </controlProperties>
+    </control>
+    <control controlID="121" controlTypeID="com.balsamiq.mockups::TextArea" x="898" y="204" w="948" h="307" measuredW="200" measuredH="140" zOrder="40" locked="false" isInGroup="-1">
+      <controlProperties>
+        <backgroundAlpha>1</backgroundAlpha>
+        <size>11</size>
+        <text>KLIENT%3A%09Martin%20Vanek%20RODNE%20CISLO%3A%20480717/0001%20TELEFON%3A%20731832148%20%20%20%20%20%20EMAIL%3A%20m.vanek@seznam.cz%20ADRESA%3A%20%u017Dd%E1rn%E1%20B%E1rtova%20425%20CZE%2067952%0A---------------------------------------------%0APRONAJEM%3A%205%20%20%20%20%20OD-DO%3A%202014-07-24-2014-08-02%20CENA%3A%2017000%20%20%20ZALOHA%3A%204000%20%20%20%20SPZ%3A%201T10001%20ZAMESTNANEC%3A%09Pavel%20Kol%E1c%20POZNAMKA%3A%20Klient%20si%20vy%u017E%E1dal%20fakturu%20ne%20email%0APRONAJEM%3A%2011%20%20%20%20OD-DO%3A%202014-10-29-2014-11-10%20CENA%3A%2026400%20%20%20ZALOHA%3A%2014000%20%20%20SPZ%3A%201T10012%20ZAMESTNANEC%3A%09David%20Katanik%20POZNAMKA%3A%20Klient%20si%20vy%u017E%E1dal%20fakturu%20ne%20email%0APRONAJEM%3A%2022%20%20%20%20OD-DO%3A%202015-03-23-2015-04-26%20CENA%3A%2010000%20%20%20ZALOHA%3A%200%20%20%20%20%20%20%20SPZ%3A%201T10011%20ZAMESTNANEC%3A%09Rostislav%20Vondr%E1k%20POZNAMKA%3A%20%0A---------------------------------------------%0APOCET%20DNU%20CELKEM%3A%2055%20%20%20%20%20%20%20%20%20POCET%20PUJCEK%20CEKEM%3A%203%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20CELKOVA%20CENA%3A%2053400%20%20%20%20%20%20KC</text>
+        <value>0</value>
+        <verticalScrollbar>true</verticalScrollbar>
+      </controlProperties>
+    </control>
+    <control controlID="122" controlTypeID="com.balsamiq.mockups::Button" x="1320" y="169" w="526" h="27" measuredW="73" measuredH="27" zOrder="41" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Vyhledej</text>
+      </controlProperties>
+    </control>
+    <control controlID="123" controlTypeID="com.balsamiq.mockups::RadioButtonGroup" x="898" y="131" w="135" h="71" measuredW="135" measuredH="61" zOrder="42" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%28o%29%20podle%20ID%20klienta%0A%20%0A%28%29%20podle%20rodn%E9ho%20%u010D%EDsla</text>
+      </controlProperties>
+    </control>
+    <control controlID="124" controlTypeID="com.balsamiq.mockups::TextInput" x="1184" y="169" w="121" h="-1" measuredW="23" measuredH="27" zOrder="43" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>2</text>
+      </controlProperties>
+    </control>
+    <control controlID="125" controlTypeID="com.balsamiq.mockups::Label" x="1071" y="172" w="90" h="-1" measuredW="73" measuredH="21" zOrder="44" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Rodn%E9%20%u010D%EDslo%3A</text>
+      </controlProperties>
+    </control>
+    <control controlID="126" controlTypeID="com.balsamiq.mockups::Label" x="1320" y="132" w="-1" h="-1" measuredW="187" measuredH="21" zOrder="45" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Jm%E9no%20a%20p%u0159ijmen%ED%3A%20Martin%20Van%u011Bk</text>
+      </controlProperties>
+    </control>
+    <control controlID="127" controlTypeID="com.balsamiq.mockups::Label" x="1543" y="132" w="-1" h="-1" measuredW="155" measuredH="21" zOrder="46" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Rodn%E9%20%u010D%EDslo%3A%20480717/0001</text>
+      </controlProperties>
+    </control>
+    <control controlID="128" controlTypeID="com.balsamiq.mockups::Label" x="1731" y="132" w="-1" h="-1" measuredW="115" measuredH="21" zOrder="47" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Telefon%3A%20731832148</text>
+      </controlProperties>
+    </control>
+    <control controlID="129" controlTypeID="com.balsamiq.mockups::Label" x="1320" y="149" w="-1" h="-1" measuredW="164" measuredH="21" zOrder="48" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Email%3A%20m.vanek@seznam.cz</text>
+      </controlProperties>
+    </control>
+    <control controlID="130" controlTypeID="com.balsamiq.mockups::Label" x="1543" y="149" w="303" h="-1" measuredW="257" measuredH="21" zOrder="49" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Adresa%3A%20%u017D%u010F%E1rn%E1%2C%20B%E1rtova%20425%2C%2067952%2C%20CZE</text>
+      </controlProperties>
+    </control>
+    <control controlID="132" controlTypeID="com.balsamiq.mockups::Button" x="1716" y="520" w="126" h="27" measuredW="57" measuredH="27" zOrder="50" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Tiskni</text>
+      </controlProperties>
+    </control>
+    <control controlID="133" controlTypeID="com.balsamiq.mockups::Button" x="1575" y="520" w="126" h="27" measuredW="118" measuredH="27" zOrder="51" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Ulo%u017E%20do%20souboru</text>
+      </controlProperties>
+    </control>
+    <control controlID="134" controlTypeID="com.balsamiq.mockups::Button" x="1199" y="520" w="126" h="27" measuredW="102" measuredH="27" zOrder="52" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Po%u0161li%20emailem</text>
+      </controlProperties>
+    </control>
+    <control controlID="135" controlTypeID="com.balsamiq.mockups::TextInput" x="935" y="520" w="249" h="-1" measuredW="148" measuredH="27" zOrder="53" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>left</align>
+        <bold>true</bold>
+        <text>d.katanik@seznam.cz</text>
+      </controlProperties>
+    </control>
+    <control controlID="136" controlTypeID="com.balsamiq.mockups::Label" x="898" y="523" w="90" h="-1" measuredW="35" measuredH="21" zOrder="54" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Email%3A</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

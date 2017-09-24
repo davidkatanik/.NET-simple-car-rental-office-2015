@@ -1,0 +1,14 @@
+c:\users\david\documents\visual studio 2013\Projects\ORM_KAT0013\ORM_KAT0013\bin\Debug\ORM_KAT0013.exe.config
+C:\Users\David\Documents\Visual Studio 2013\Projects\ORM_KAT0013\ORM_KAT0013\bin\Debug\ORM_KAT0013.exe
+C:\Users\David\Documents\Visual Studio 2013\Projects\ORM_KAT0013\ORM_KAT0013\bin\Debug\ORM_KAT0013.pdb
+C:\Users\David\Documents\Visual Studio 2013\Projects\ORM_KAT0013\ORM_KAT0013\obj\Debug\ORM_KAT0013.csprojResolveAssemblyReference.cache
+C:\Users\David\Documents\Visual Studio 2013\Projects\ORM_KAT0013\ORM_KAT0013\obj\Debug\ORM_KAT0013.exe
+C:\Users\David\Documents\Visual Studio 2013\Projects\ORM_KAT0013\ORM_KAT0013\obj\Debug\ORM_KAT0013.pdb
+C:\Users\David\Desktop\ORM_KAT0013\ORM_KAT0013\bin\Debug\ORM_KAT0013.exe.config
+C:\Users\David\Desktop\ORM_KAT0013\ORM_KAT0013\bin\Debug\ORM_KAT0013.exe
+C:\Users\David\Desktop\ORM_KAT0013\ORM_KAT0013\bin\Debug\ORM_KAT0013.pdb
+C:\Users\David\Desktop\ORM_KAT0013\ORM_KAT0013\obj\Debug\ORM_KAT0013.exe
+C:\Users\David\Desktop\ORM_KAT0013\ORM_KAT0013\obj\Debug\ORM_KAT0013.pdb
+C:\Users\David\Desktop\ORM_KAT0013\ORM_KAT0013\obj\Debug\ORM_KAT0013.csprojResolveAssemblyReference.cache
+C:\Users\David\Desktop\ORM_KAT0013\ORM_KAT0013\obj\Debug\ORM_KAT0013.VypisKlienta.resources
+C:\Users\David\Desktop\ORM_KAT0013\ORM_KAT0013\obj\Debug\ORM_KAT0013.csproj.GenerateResource.Cache
